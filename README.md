@@ -1,6 +1,6 @@
 # LosangelesM
  Learn about HTML / CSS / Bootstap through creation. Also, when they are looking for a job, customize it to create your own portfolio.
-[Visit Demo Website Hosted by Heroku](https://portfolio-aishwarya.herokuapp.com)
+[Visit Demo Website Hosted by Heroku](https://loseangeles-aishwarya.herokuapp.com/)
 ## Tech used
 * HTML
 * CSS
